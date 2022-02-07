@@ -1,0 +1,12 @@
+//
+thrust = 15
+
+if keyboard_check(vk_up){
+  
+}
+if keyboard_check (vk_left)
+  image_angle += turnRate
+
+if keyboard_check(vk_right)
+  image_angle -= turnRate
+  
